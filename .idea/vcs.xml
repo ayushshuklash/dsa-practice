@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$/FrontEnd/Angular/d8e6807c-0bce-48b0-86bb-5ee1fa5f6b4c" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/dsa-practice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
   </component>
 </project>
